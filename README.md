@@ -1,8 +1,8 @@
 # Michi USB C Pro Micro RP2040
 
-![michi-pro-micro](https://github.com/ci-bus/michi/blob/master/conjunto3d.jpeg)
+![michi-pro-micro](https://github.com/ci-bus/michi/blob/master/pinout.jpeg)
 
-## Compile QMK Firmware to Michi .uf2 file 
+## Compile [QMK Firmware](https://docs.qmk.fm/) to Michi .uf2 file 
 
 ### Examples:
 Using QMK CLI:
@@ -21,3 +21,11 @@ make crkbd:default CONVERT_TO=michi
 3. Remove the bridge or release the reset botton
 4. Wait for OS to detect Michi
 5. Copy the .uf2 file to the USB drive
+
+## Designer
+
+- Miguelio [website](https://miguelio.com/) [instagram](https://www.instagram.com/migueliokeyboards/)
+  
+## Collaborator
+
+- Tecleate [website](https://tecleate.com/) [instagram](https://www.instagram.com/tecleate/)
