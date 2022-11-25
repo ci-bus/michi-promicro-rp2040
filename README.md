@@ -7,11 +7,11 @@
 ### Examples:
 Using QMK CLI:
 ```
-qmk flash -c -kb crkbd -km default -e CONVERT_TO=promicro_rp2040
+qmk flash -c -kb crkbd -km default -e CONVERT_TO=michi
 ```
 Using make:
 ```
-make crkbd:default CONVERT_TO=promicro_rp2040
+make crkbd:default CONVERT_TO=michi
 ```
 
 ## Flashing
