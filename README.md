@@ -1,2 +1,3 @@
-# michi
-MICHI USB C RP2040 pro micro board
+# Michi USB C Pro Micro RP2040
+
+
