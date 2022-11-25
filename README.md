@@ -24,8 +24,8 @@ make crkbd:default CONVERT_TO=michi
 
 ## Designer
 
-- Miguelio [website](https://miguelio.com/) [instagram](https://www.instagram.com/migueliokeyboards/)
+Miguelio - [website](https://miguelio.com/) - [instagram](https://www.instagram.com/migueliokeyboards/)
   
 ## Collaborator
 
-- Tecleate [website](https://tecleate.com/) [instagram](https://www.instagram.com/tecleate/)
+Tecleate - [website](https://tecleate.com/) - [instagram](https://www.instagram.com/tecleate/)
