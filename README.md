@@ -7,9 +7,17 @@
 ### Examples:
 Using QMK CLI:
 ```
-qmk flash -c -kb keebio/levinson/rev3 -km default -e CONVERT_TO=promicro_rp2040
+qmk flash -c -kb crkbd -km default -e CONVERT_TO=promicro_rp2040
 ```
 Using make:
 ```
-make keebio/levinson/rev3:default CONVERT_TO=promicro_rp2040
+make crkbd:default CONVERT_TO=promicro_rp2040
 ```
+
+## Flashing
+
+1. Join **Boot** with **GND** pins or press reset button if you keyboard have this
+2. Connect USB
+3. Remove the bridge or release the reset botton
+4. Wait for OS to detect Michi
+5. Copy the .uf2 file to the USB drive
