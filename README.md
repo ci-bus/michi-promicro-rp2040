@@ -14,6 +14,10 @@ Using make:
 make crkbd:default CONVERT_TO=michi
 ```
 
+## NOTE
+
+The code not yet deployed in the official QMK firmware repository, for now you can use this forked and configured code: [QMK firmware Michi](https://github.com/ci-bus/qmk_firmware/tree/promicro-michi-rp2040)
+
 ## Flashing
 
 1. Join **Boot** with **GND** pins or press reset button if you keyboard have this
