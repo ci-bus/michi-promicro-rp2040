@@ -22,7 +22,7 @@ make crkbd:default CONVERT_TO=michi
 4. Wait for OS to detect Michi
 5. Copy the .uf2 file to the USB drive
 
-## NOTE
+## Notes
 
 The code not yet deployed in the official QMK firmware repository, for now you can use this forked and configured code.
 
