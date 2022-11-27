@@ -16,7 +16,7 @@ make crkbd:default CONVERT_TO=michi
 
 ## Flasheando
 
-1. Use los pines **Boot** y **GND** o mantén presionado el botón reset si tu teclado lo tiene
+1. Haz un puente entre los pines **Boot** y **GND** o mantén presionado el botón reset si tu teclado lo tiene
 2. Conecta el USB
 3. Elimina el puente o suelta el botón reset
 4. Espera a que el sistema operativo detecte a Michi
