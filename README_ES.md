@@ -22,7 +22,7 @@ make crkbd:default CONVERT_TO=michi
 4. Espera a que el sistema operativo detecte a Michi
 5. Copia el archivo .uf2 dentro de la memoria USB
 
-## NOTAS
+## Notas
 
 El código de Michi aún no se encuentra en el repositorio oficial de QMK firmware, por ahora tu puedes usar la rama forked.
 
